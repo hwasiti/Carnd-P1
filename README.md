@@ -1,9 +1,9 @@
-# SDC-P1
+# Carnd-P1
 Udacity SDC Project 1: Finding Lane Lines on the Road
 
-SDC-P1 is a program written in Python in *Jupyter Notebook* form to identify lane lines on the road in either images or videos.
+Carnd-P1 is a program written in Python in *Jupyter Notebook* form to identify lane lines on the road in either images or videos.
 
-![Example SDC-P1 Image](./test_images/solidWhiteCurve-processed.jpg)
+![Example SDC-P1 Image](./test_images/solidWhiteCurve.jpg)
 
 The majority of its software is based on the Open Source Computer Vision Library (OpenCV).  OpenCV is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.  More about OpenCV can be found at http://opencv.org/.
 
